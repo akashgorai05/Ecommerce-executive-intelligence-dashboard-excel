@@ -57,10 +57,7 @@ An executive-grade interactive Excel dashboard designed to analyze end-to-end e-
 ## 📁 Repository Structure
 
 ```text
-├── dataset/
-│   └── ecommerce_raw_data.csv          # Raw e-commerce transaction data
-├── dashboard/
-│   └── Ecommerce_Intelligence_Dashboard.xlsx  # Complete interactive Excel file
-├── assets/
-│   └── dashboard_preview.png           # High-resolution screenshot of the dashboard
-└── README.md                           # Project documentation
+├── E-Com_Dashboard_Preview.png        # High-resolution dashboard preview image
+├── Ecommerce_analysis.zip             # Interactive Excel dashboard workbook (compressed)
+├── Indian_Ecommerce_SQL_Query.sql     # SQL queries for database analysis & KPI extraction
+└── README.md                          # Comprehensive project documentation
